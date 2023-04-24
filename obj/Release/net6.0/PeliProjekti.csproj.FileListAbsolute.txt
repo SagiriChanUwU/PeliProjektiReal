@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\bin\Release\net6.0\PeliProjekti.exe
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\bin\Release\net6.0\PeliProjekti.deps.json
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\bin\Release\net6.0\PeliProjekti.runtimeconfig.json
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\bin\Release\net6.0\PeliProjekti.dll
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\bin\Release\net6.0\PeliProjekti.pdb
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\obj\Release\net6.0\PeliProjekti.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\obj\Release\net6.0\PeliProjekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\obj\Release\net6.0\PeliProjekti.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\obj\Release\net6.0\PeliProjekti.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\obj\Release\net6.0\PeliProjekti.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\obj\Release\net6.0\PeliProjekti.dll
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\obj\Release\net6.0\refint\PeliProjekti.dll
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\obj\Release\net6.0\PeliProjekti.pdb
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\obj\Release\net6.0\PeliProjekti.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive - Business College Helsinki\Documents\Tietovarastot\dotnet\PeliProjekti\PeliProjekti\obj\Release\net6.0\ref\PeliProjekti.dll
